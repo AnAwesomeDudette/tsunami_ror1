@@ -3,7 +3,8 @@ local item = Item("Coping Mechanism")
 
 item.pickupText = "Cry about it." 
 
-item.sprite = Sprite.load("CopingMechanism_Sprite", "Items/COPINGMECHANISM", 1, 11, 12)
+--item.sprite = Sprite.load("CopingMechanism_Sprite", "Items/COPINGMECHANISM", 1, 11, 12)
+item.sprite = Sprite.load("CopingMechanism_Sprite", "Items/COPE", 1, 15, 16)
 
 item:setTier("rare")
 
