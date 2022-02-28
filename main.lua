@@ -1,19 +1,6 @@
---fnuuy assin mod :)
 require("resources")
 require("Assassin/assassin")
---require("Inheritor/inheritor")
 require("Cadet/cadet")
---require("Items/sandwich")
---require("Items/copingMechanism")
---require("Items/feminineEssence")
-
---require("Items/CausticTonic")
---require("Items/sunFragment")
---require("Items/gleamingEmerald")
---require("Items/doctorsBag")
-
---testing
---require("Items/archArsenal")
 
 
 local items = {
@@ -22,7 +9,7 @@ local items = {
     "feminineEssence",
     "sunFragment",
     "doctorsBag",
-    "archArsenal",
+    --"archArsenal",
     "shield",
     "flower",
     "rifle"
