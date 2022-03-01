@@ -1,9 +1,9 @@
 {
     "name": "Tsunami",
-    "description": "Tsunami!",
+    "description": "Tsunami by Ruxbieno, ported to Risk of Rain 1-! Probably kinda multiplayer compatible.",
     "internalname": "ruxMod",
-    "version": "0.0.1",
-    "author": "AnAwesomeDudette",
+    "version": "0.0.3",
+    "author": "AnAwesomeDudette, only_going_up_fr0m_here",
     "mpcompat": true,
 	"dependencies": [
 		{
